@@ -1,0 +1,28 @@
+name: tstl
+favicon: null
+layout_spectrum: 0.8863569514360279
+typography_spectrum: 0.4234583186917007
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.887867696583271
+  lightness: 0.041574925649911165
+  saturation: 0.7637481249403208
+  rhythmicContrast: 0.703060207888484
+purpose: []
